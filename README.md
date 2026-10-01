@@ -8,8 +8,7 @@ A full-stack User Management System built using **React.js, Node.js, Express.js,
 
 * React.js
 * JavaScript
-* HTML5
-* CSS3
+* TailwindCSS
 * Axios
 * React Router
 
